@@ -162,7 +162,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/zakazaka-budget-app.git
+git clone [https://github.com/your-username/zakazaka-budget-app.git](https://github.com/Nia-byte/Personal-Budget-Tracker-App.git)
 cd zakazaka-budget-app
 ```
 
@@ -592,7 +592,7 @@ Contributions are welcome! Please follow these steps:
 ### 1. Fork the Repository
 
 ```bash
-git clone https://github.com/your-username/zakazaka-budget-app.git
+git clone [https://github.com/your-username/zakazaka-budget-app.git](https://github.com/Nia-byte/Personal-Budget-Tracker-App.git)
 ```
 
 ### 2. Create a Feature Branch
@@ -696,8 +696,4 @@ SOFTWARE.
   - Budget goal setting
   - Date-based filtering and analytics
   - Onboarding flow for new users
-
-
-
-
 
